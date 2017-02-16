@@ -1,0 +1,3 @@
+hi this my first file
+after the file creation
+adding the third line
